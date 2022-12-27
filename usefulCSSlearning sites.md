@@ -1,6 +1,9 @@
 1 - #https://flukeout.github.io
 css dinner takeout 
 
+2 - #https://developer.mozilla.org/en-US/docs/Web/CSS
+MDN Mosilla Developer Network CSS
+
 ...
 
 Only Child Pseudo-selector
